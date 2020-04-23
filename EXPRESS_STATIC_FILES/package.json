@@ -1,0 +1,25 @@
+{
+  "name": "express_static_files",
+  "version": "1.0.0",
+  "description": "Secondo progetto",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaybeMero/Mero-Express.git"
+  },
+  "keywords": [
+    "maybe"
+  ],
+  "author": "Maybe Mero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaybeMero/Mero-Express/issues"
+  },
+  "homepage": "https://github.com/MaybeMero/Mero-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
